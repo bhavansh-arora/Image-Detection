@@ -1,0 +1,4 @@
+/Users/bhavansharora/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/bhavansharora/AndroidStudioProjects/ImageDetection3/opencv/.cxx/Debug/1m216e6x/x86 \
+  opencv_jni_shared

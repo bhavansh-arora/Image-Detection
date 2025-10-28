@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/bhavansharora/AndroidStudioProjects/ImageDetection3/opencv/.cxx/Debug/1m216e6x/x86'
+ninja: no work to do.
